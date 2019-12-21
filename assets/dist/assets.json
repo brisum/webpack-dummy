@@ -1,0 +1,24 @@
+{
+  "style": {
+    "js": "/assets/dist/style.js?780064950f0cd618f951",
+    "css": "/assets/dist/style.css?d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "script": {
+    "js": "/assets/dist/script.js?0c520e893b1cf712e1ef"
+  },
+  "font_awesome": {
+    "js": "/assets/dist/font_awesome.js?5ddef2a38617f2424a28",
+    "css": "/assets/dist/font_awesome.css?6f212f5ea102f5ae66d14badf792da1c"
+  },
+  "": {
+    "eot": "/assets/dist/674f50d287a8c48dc19ba404d20fe713.eot",
+    "woff": "/assets/dist/fee66e712a8a08eef5805a46892932ad.woff",
+    "ttf": "/assets/dist/b06871f281fee6b241d60582ae9369b9.ttf",
+    "svg": "/assets/dist/912ec66d7572ff821749319396470bde.svg",
+    "woff2": "/assets/dist/af7ae505a9eed503f8b8e6982036873e.woff2",
+    "js": [
+      "/assets/dist/jquery.js?296dcfebeb445eba75b3",
+      "/assets/dist/bootstrap.js?a454220fc07088bf1fdd"
+    ]
+  }
+}
